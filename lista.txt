@@ -1,0 +1,22 @@
+Pedidos Iniciais:
+
+Mudar tamanho da tela de login - V
+Mudar banco de dados - V
+Mudar tela de cadastro de eventos - V
+Criar opção para editar eventos - V
+Criar relatorios - V
+
+-------------
+Outros:
+
+Criar Opção de visualizar eventos com mais detalhes - V
+Fazer Session - V
+Colocar Imagem dos eventos - V
+Deixar template de dashboard na área de admin - V
+Criar tempo limite ilustrativo para anuncio - V
+Colocar Região dos Eventos - V
+Gerar Gráficos - V
+Fazer tela inicial - V
+
+
+Assin: Alterar_evento.php
